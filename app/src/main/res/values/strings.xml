@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Chat Application</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">E-mail</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="accept_notification">Accept Notification</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="logout">Log out</string>
+    <string name="send">Send</string>
+    <string name="type_message">Type a message</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="error_password_minimum">Minimum 6 characters</string>
+    <string name="main_activity_backbtn_toast">Press the back button again to close the application.</string>
+    <string name="error_email">Invalid email</string>
+    <string name="message_sent">"Message is sent!"</string>
+    <string name="error_username">Type username</string>
+    <string name="my_chat_list">My Chat List</string>
+    <string name="contact1">Jelena</string>
+    <string name="contact2">Aleksandar</string>
+    <string name="contact3">Djole</string>
+    <string name="contact4">Stefan</string>
+</resources>
